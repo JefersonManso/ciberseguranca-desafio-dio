@@ -18,7 +18,11 @@
   <img src="https://github.com/JefersonManso/ciberseguranca-desafio-dio/blob/main/foto02.png" alt="opção 1">
   
 - Vetor de ataque: ``` Web Site Attack Vectors ```
+  
+  <img src="https://github.com/JefersonManso/ciberseguranca-desafio-dio/blob/main/foto03.png" alt="opção2">
+ 
 - Método de ataque: ```Credential Harvester Attack Method ```
+- 
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
