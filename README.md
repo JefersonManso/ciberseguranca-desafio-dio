@@ -21,10 +21,12 @@
   
   <img src="https://github.com/JefersonManso/ciberseguranca-desafio-dio/blob/main/foto03.png" alt="opção2">
  
-- Método de ataque: ```Credential Harvester Attack Method ```
-- 
-- Método de ataque: ``` Site Cloner ```
+- Método de ataque: ```Credential Harvester Attack Method e Site cloner ``
+  
+  <img src="https://github.com/JefersonManso/ciberseguranca-desafio-dio/blob/main/foto04.png" alt="">
+  
 - Obtendo o endereço da máquina: ``` ifconfig ```
+- 
 - URL para clone: http://www.facebook.com
 
 ### Resutados
