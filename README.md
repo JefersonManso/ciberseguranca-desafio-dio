@@ -11,7 +11,7 @@
 - 
 - Iniciando o setoolkit: ``` setoolkit ```
   
-  ![Segundo passo] (https://github.com/JefersonManso/ciberseguranca-desafio-dio/blob/main/foto1.1.png)
+  <img src="" alt="Página inicial do azure ai foundry">
  
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
