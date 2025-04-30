@@ -33,4 +33,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+ <img src="https://github.com/JefersonManso/ciberseguranca-desafio-dio/blob/main/foto07.png" alt="">
