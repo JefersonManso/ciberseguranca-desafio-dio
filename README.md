@@ -26,7 +26,9 @@
   <img src="https://github.com/JefersonManso/ciberseguranca-desafio-dio/blob/main/foto04.png" alt="">
   
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- 
+
+ <img src="https://github.com/JefersonManso/ciberseguranca-desafio-dio/blob/main/foto06.png" alt="">
+ 
 - URL para clone: http://www.facebook.com
 
 ### Resutados
