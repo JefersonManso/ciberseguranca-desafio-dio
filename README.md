@@ -8,10 +8,10 @@
 ### Configurando o Phishing no Kali Linux
 
 - Acesso root: ``` sudo su ```
-- 
-- Iniciando o setoolkit: ``` setoolkit ```
+ 
+- Iniciando o setoolkit: ``` setoolkit e selecionando a opção 2. ```
   
-  <img src="" alt="Página inicial do azure ai foundry">
+  <img src="" alt="">
  
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
