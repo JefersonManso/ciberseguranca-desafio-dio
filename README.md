@@ -31,6 +31,6 @@
  
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resultado
 
  <img src="https://github.com/JefersonManso/ciberseguranca-desafio-dio/blob/main/foto07.png" alt="">
